@@ -1,5 +1,5 @@
-# OIPs
-Oracles Improvement Proposals (OIPs), are technical write-ups that describe modifications to the Protocol, DApps, or any significant topic.
+# POAPs
+POA Proposals (POAPs), are technical write-ups that describe modifications to the Protocol, DApps, or any significant topic.
 
 # Current OIPs
  | Number        |Title         | Author | Type  | Layer        | Status / Discussion |

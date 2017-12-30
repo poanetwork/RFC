@@ -1,9 +1,7 @@
 ### Title
 
       Title: _Required_
-      Author: Foo Bar <foo@example.com>
       Layer: Consensus
-      Created: Jan 1 2017
 
 ### Abstract
 

@@ -20,4 +20,5 @@ RFCs are technical write-ups that describe modifications to the Protocol, DApps,
 |[11](https://github.com/poanetwork/RFC/issues/11)|Performance testing of PoA networks|Roman Storm|Consensus, parity,  AuRa|Issue|
 |[12](https://github.com/poanetwork/RFC/issues/12)|Network health checks and monitoring|Pavel Khakhulin|Service|Issue|
 |[13](https://github.com/poanetwork/RFC/issues/14)|Increased Emission Supply |Roman Storm|Consensus|Issue|
+|[14](https://github.com/poanetwork/RFC/issues/15)|Proof of Bank Account|Franco Victorio|Dapp|Issue|
 
